@@ -1,0 +1,2 @@
+# automation-node
+Python script
